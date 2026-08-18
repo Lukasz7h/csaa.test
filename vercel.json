@@ -8,6 +8,12 @@
         { "key": "Access-Control-Allow-Headers", "value": "X-CSRF-Token, X-Requested-With, Accept, Accept-Version, Content-Length, Content-MD5, Content-Type, Date, X-Api-Version" },
         { "key": "Access-Control-Allow-Credentials", "value": "true" }
       ]
+    },
+    {
+      "source": "/p1fS6b/Fip/sC6/wIs63w/1fai8kzhzVkGfJ/eQUCVyttMg/az/RETVgOfQQC",
+      "headers": [
+        { "key": "Content-Type", "value": "application/javascript; charset=utf-8" }
+      ]
     }
   ]
 }
