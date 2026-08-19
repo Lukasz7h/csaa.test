@@ -1,1 +1,1 @@
-alert(window.domain)
+alert(document.domain)
